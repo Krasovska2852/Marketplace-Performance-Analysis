@@ -1,0 +1,13 @@
+# Power BI temp / lock files
+*.pbix.lock
+*.pbix.cache
+
+# Ignore all datasets
+data/*.csv
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Mac junk
+.DS_Store
