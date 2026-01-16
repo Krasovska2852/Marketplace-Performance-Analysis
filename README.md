@@ -45,7 +45,7 @@ Each page is designed to provide actionable insights using interactive visuals a
 - Average Order Value  
 - Revenue (sum of completed orders)  
 - Pipeline Value (orders in progress)  
-- Conversion Rate = Sales / Leads  
+- Conversion Rate
 - Sales – number of completed orders  
 - Leads – number of potential orders  
 - Geographic distribution of sales  
